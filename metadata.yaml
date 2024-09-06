@@ -1,5 +1,8 @@
 _repo: The-English-Works-of-Thomas-Hobbes-Volume-1-of-5_73877
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73877-h/images/cover.jpg
 creator:
   author:
     agent_name: Hobbes, Thomas
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '57259'
     url: http://www.gutenberg.org/2009/agents/57259
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73877#The-English-Works-of-Thomas-Hobbes-Volume-1-of-5
 gutenberg_issued: '2024-06-20'
 gutenberg_type: Text
 identifiers:
